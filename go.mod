@@ -1,3 +1,3 @@
 module github.com/ugurcsen/gods-generic
 
-go 1.18
+go 1.20
